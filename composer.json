@@ -1,0 +1,17 @@
+{
+    "name": "sk/test",
+    "description": "ver1",
+    "type": "lybrary",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "you@example.com"
+        }
+    ],
+    "require": {},
+	"autoload": {
+        "classmap": ["src"]
+    }
+	
+}
